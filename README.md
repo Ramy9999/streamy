@@ -2,7 +2,7 @@
 
 Link: https://share.streamlit.io/ramy9999/streamy/main/app.py
 
-clone or download zip to run on your local machine if you want.
+Clone or download zip to run on your local machine if you want.
 
 ## Overview of All types of Images
 ![alt text](https://github.com/Ramy9999/streamy/blob/main/testy/CT%20and%20Xray%20snip.PNG)
@@ -58,7 +58,7 @@ streamlit run app.py
 
 (or)
 
-use and go to my working project online - go to this link https://share.streamlit.io/ramy9999/streamy/main/app.py
+Use and go to my working project online - go to this link: https://share.streamlit.io/ramy9999/streamy/main/app.py
 
 * The web app opens up in a local host if executed localy offline. Then you can use it for COVID19 Chest Scan Image classification. That's it!
 
