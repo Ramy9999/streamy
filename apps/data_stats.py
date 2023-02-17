@@ -44,7 +44,7 @@ def app():
     adjust_footer = """
     <style>
     footer:after {
-    content: 'Copyright @ 2022 By Ramy Elsaraf';
+    content: 'Copyright @ 2023 By Ramy Elsaraf';
     display: block;
     position: relative;
     }
