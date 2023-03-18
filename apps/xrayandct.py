@@ -46,7 +46,7 @@ def app():
         st.markdown("[![Foo](https://i.ibb.co/wN11HBZ/rsz-1github-2.png)](https://github.com/Ramy9999/streamy/)")
 
     with col2:
-        st.markdown("[![Foo](https://i.postimg.cc/qRbBCpxw/rsz-1rsz-facebook-logo-blue-circle-large-transparent-png.png)](https://about.meta.com/covid-19-information-center?fbclid=IwAR3KbVwG89Rl0wIvrGBBDlWe3-_se5G5BVE7pEslOVic_NIGvHuWCOGH9rs/)")
+        st.markdown("[![Foo](https://i.postimg.cc/c4GvfBq8/Facebook-logo-blue-circle-large-transparent-png-small-clear.png)](https://about.meta.com/covid-19-information-center?fbclid=IwAR3KbVwG89Rl0wIvrGBBDlWe3-_se5G5BVE7pEslOVic_NIGvHuWCOGH9rs/)")
 
     with col3:
         st.markdown("[![Foo](https://i.postimg.cc/k4BGsV4z/2f779285-2399-470d-a895-734d3b850ad8-cover-small.png)](https://www.youtube.com/results?search_query=covid+19+news/)")
