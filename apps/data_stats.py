@@ -38,9 +38,30 @@ def app():
 
     new_title = '<p style="text-align: center; font-weight: bold; font-family:sans-serif; color:Black; font-size: 62px;">Covid19 Chest Images Scans Detector</p>'
     st.markdown(new_title, unsafe_allow_html=True)
+    
+    st.markdown("<br>", unsafe_allow_html=True)
+    
+    col1, col2, col3, col4 = st.columns(4)
+
+    with col1:
+        st.markdown("[![Foo](https://i.ibb.co/wN11HBZ/rsz-1github-2.png)](https://github.com/Ramy9999/streamy/)")
+
+    with col2:
+        st.markdown("[![Foo](https://i.postimg.cc/qRbBCpxw/rsz-1rsz-facebook-logo-blue-circle-large-transparent-png.png)](https://about.meta.com/covid-19-information-center?fbclid=IwAR3KbVwG89Rl0wIvrGBBDlWe3-_se5G5BVE7pEslOVic_NIGvHuWCOGH9rs/)")
+
+    with col3:
+        st.markdown("[![Foo](https://i.postimg.cc/k4BGsV4z/2f779285-2399-470d-a895-734d3b850ad8-cover-small.png)](https://www.youtube.com/results?search_query=covid+19+news/)")
+
+    with col4:
+        st.markdown("[![Foo](https://i.postimg.cc/52btGKyw/who-emblem-logo-small.png)](https://www.who.int/health-topics/coronavirus#tab=tab_1/)")
+
+    st.text("")
+    st.text("")
 
     st.title('CT')
 
+    st.markdown("<br>", unsafe_allow_html=True)
+    
     adjust_footer = """
     <style>
     footer:after {
