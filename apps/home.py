@@ -71,6 +71,9 @@ def app():
     
     st.write('Hello, *World!* :sunglasses:')
     
+    new_beeko = '<p style="text-align: center; font-weight: bold; font-family:sans-serif; color:Black; font-size: 62px;">This is a Test</p>'
+    st.markdown(new_beeko, unsafe_allow_html=True)
+    
     new_title = '<p style="text-align: center; font-weight: bold; font-family:sans-serif; color:Black; font-size: 62px;">Covid19 Chest Images Scans Detector</p>'
     st.markdown(new_title, unsafe_allow_html=True)
     
