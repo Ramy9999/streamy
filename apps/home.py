@@ -22,9 +22,29 @@ st.set_option('deprecation.showfileUploaderEncoding', False)
 def app():
     display = Image.open('clean_hands_open_hearts_covid19footerimage2.jpg')
     display = np.array(display)
-    st.image(display, width=400)
+    # st.image(display, width=400)
     # st.title("Covid19 Chest Images Scans Detector")
+    
+    col1, col2, col3, col4, col5, col6 = st.columns(6)
 
+    with col1:
+        st.write(' ')
+
+    with col2:
+        st.image(display, width=400)
+
+    with col3:
+        st.write(' ')
+
+    with col4:
+        st.write(' ')
+
+    with col5:
+        st.write(' ')
+
+    with col6:
+        st.write(' ')
+    
     new_title = '<p style="text-align: center; font-weight: bold; font-family:sans-serif; color:Black; font-size: 62px;">Covid19 Chest Images Scans Detector</p>'
     st.markdown(new_title, unsafe_allow_html=True)
     
