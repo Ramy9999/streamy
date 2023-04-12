@@ -64,3 +64,6 @@ Use and go to my working project online - go to this link: https://share.streaml
 
 * Upload any type of image you want or even multiple images, provided that each image does not exceed 200 MB.
 
+
+# >> Project Report: 
+This is the web application's research project report: https://www.academia.edu/80312473/A_Machine_Learning_Program_for_Detecting_COVID_19_in_Humans_Chest_Images_Scans 
