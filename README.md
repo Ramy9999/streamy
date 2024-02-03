@@ -1,6 +1,6 @@
-# Covid19 Chest Scan Images Detector [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/ramy9999/streamy/main/app.py)
+# Covid19 Chest Scan Images Detector [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ramy9999-streamy-app-rqzkvv.streamlit.app/)
 
-Link: https://share.streamlit.io/ramy9999/streamy/main/app.py
+Link: https://ramy9999-streamy-app-rqzkvv.streamlit.app/
 
 Clone or download zip to run on your local machine if you want.
 
@@ -58,7 +58,7 @@ streamlit run app.py
 
 (or)
 
-Use and go to my working project online - go to this link: https://share.streamlit.io/ramy9999/streamy/main/app.py
+Use and go to my working project online - go to this link: https://ramy9999-streamy-app-rqzkvv.streamlit.app/
 
 * The web app opens up in a local host if executed localy offline. Then you can use it for COVID19 Chest Scan Image classification. That's it!
 
