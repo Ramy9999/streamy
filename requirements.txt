@@ -1,6 +1,6 @@
 tensorflow
 pillow
 numpy
-streamlit==1.8.0
+streamlit
 pandas
 click==8
